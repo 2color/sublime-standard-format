@@ -3,7 +3,6 @@ import sublime_plugin
 import subprocess
 import os
 import time
-import merge_utils
 
 # Insane sublime pathing!  Please open issues if this doesn't cut it.
 # TODO: Test on windows :[
